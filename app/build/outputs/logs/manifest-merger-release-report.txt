@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\776257153e365af724ba3a5764807a56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6435fd2c15c718ff4134895bc1678b4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b631e15a8ddc5fdb8d9ef41db9e120aa\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8241a7d7ca319d9293bc0eabcccad3f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5e62900f385617c70b04e9f37caedb42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ba3c954ec550a11cb5e2df47c63d6aad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c5144a52a122c88a96ce1b79966329fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\927f6c1e079d7398f780560cc9a25b42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5f7b4ee9b99cdd17fb9e77c913213895\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dd870f6dfeda68fd764283e455845e70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d1fa6279f2191b8aed194b29efcca212\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c8af841858e70c06c2bb7aa8b4e67c47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\af23af8c3f51b1cf28e69f195269fd9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\85169b1595426dd7baa25b84f9578351\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\22e9d71e0a819cf983aeee350a8bfd47\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01081c1a08f9dc69dc0b08d9788caf4c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\67d30065e33d1eed9a901c0c057aacdd\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:9:22-78
+application
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b631e15a8ddc5fdb8d9ef41db9e120aa\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b631e15a8ddc5fdb8d9ef41db9e120aa\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:17:9-67
+activity#com.examples.backendless.MainActivity
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\776257153e365af724ba3a5764807a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\776257153e365af724ba3a5764807a56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6435fd2c15c718ff4134895bc1678b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\6435fd2c15c718ff4134895bc1678b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b631e15a8ddc5fdb8d9ef41db9e120aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b631e15a8ddc5fdb8d9ef41db9e120aa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8241a7d7ca319d9293bc0eabcccad3f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8241a7d7ca319d9293bc0eabcccad3f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5e62900f385617c70b04e9f37caedb42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5e62900f385617c70b04e9f37caedb42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ba3c954ec550a11cb5e2df47c63d6aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ba3c954ec550a11cb5e2df47c63d6aad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c5144a52a122c88a96ce1b79966329fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c5144a52a122c88a96ce1b79966329fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\927f6c1e079d7398f780560cc9a25b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\927f6c1e079d7398f780560cc9a25b42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5f7b4ee9b99cdd17fb9e77c913213895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\5f7b4ee9b99cdd17fb9e77c913213895\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dd870f6dfeda68fd764283e455845e70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dd870f6dfeda68fd764283e455845e70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d1fa6279f2191b8aed194b29efcca212\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d1fa6279f2191b8aed194b29efcca212\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c8af841858e70c06c2bb7aa8b4e67c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\c8af841858e70c06c2bb7aa8b4e67c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\af23af8c3f51b1cf28e69f195269fd9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\af23af8c3f51b1cf28e69f195269fd9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\85169b1595426dd7baa25b84f9578351\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\85169b1595426dd7baa25b84f9578351\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\22e9d71e0a819cf983aeee350a8bfd47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\22e9d71e0a819cf983aeee350a8bfd47\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01081c1a08f9dc69dc0b08d9788caf4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\01081c1a08f9dc69dc0b08d9788caf4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\67d30065e33d1eed9a901c0c057aacdd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\91893\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\67d30065e33d1eed9a901c0c057aacdd\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91893\Downloads\LoginWithQR\app\src\main\AndroidManifest.xml
